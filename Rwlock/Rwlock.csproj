@@ -4,7 +4,8 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
     <LangVersion>10.0</LangVersion>
-	<Version>0.1.0</Version>
+	<Version>0.1.1</Version>
+    <Description>More friendly rwlock wraps</Description>
     <AssemblyName>Volight.LockWraps.$(MSBuildProjectName)</AssemblyName>
     <RootNamespace>Volight.LockWraps</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
