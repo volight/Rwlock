@@ -5,12 +5,14 @@
     <Nullable>enable</Nullable>
     <LangVersion>10.0</LangVersion>
 	<Version>0.1.0</Version>
-    <AssemblyName>Volight.Lockwraps.$(MSBuildProjectName)</AssemblyName>
-    <RootNamespace>Volight.Lockwraps</RootNamespace>
+    <AssemblyName>Volight.LockWraps.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>Volight.LockWraps</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Volight</Authors>
     <PackageLicenseFile>./LICENSE.md</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/volight/Rwlock</RepositoryUrl>
+    <PackageTags>rwlock;lock</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Volight.Lockwraps
+namespace Volight.LockWraps
 {
     public sealed class Rwlock : IDisposable
     {

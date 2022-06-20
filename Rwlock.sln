@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rwlock", "Rwlock\Rwlock.csproj", "{19D86D97-4E78-419A-A402-DA45524D9943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{23B32765-6CA7-48F9-B21B-7B43B39EB07B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{19D86D97-4E78-419A-A402-DA45524D9943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D86D97-4E78-419A-A402-DA45524D9943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D86D97-4E78-419A-A402-DA45524D9943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B32765-6CA7-48F9-B21B-7B43B39EB07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B32765-6CA7-48F9-B21B-7B43B39EB07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B32765-6CA7-48F9-B21B-7B43B39EB07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B32765-6CA7-48F9-B21B-7B43B39EB07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
